@@ -1,18 +1,18 @@
- #DEPLOYMENT PRACTISE
+ DEPLOYMENT PRACTISE
 
- ##Requirements: (recommendation virtual env)
+    Requirements: (recommendation virtual env)
 
-    python version: 3.9.7
+        python version: 3.9.7
 
-    pip install Flask
+        pip install Flask
 
-    pip install Flask-RESTful
+        pip install Flask-RESTful
 
-    pip install Flask-JWT
+        pip install Flask-JWT
 
-    pip install Flask-SQLAlchemy
+        pip install Flask-SQLAlchemy
 
 
-##Description
-    In this proyect I am practicing deployment with a REST API application that stores items,stores,users and retrive them
+    Description
+        In this proyect I am practicing deployment with a REST API application that stores items,stores,users and retrive them
 
